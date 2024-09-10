@@ -9,15 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-EDUCATION
-======
-* China University of Petroleum-Beijing (CUP) Expected June 2025
-Bachelor of Computer Science (cGPA: 3.87 / 5.00, Average Score: 88.73, Grades for 5 semesters) Beijing, China
-Rank: 1/93 in 1st year, 2/132 in 2nd year, Top 1%
-Relevant Coursework: Data Structures (C++), Design and Analysis of Algorithms, Computer Organization
-Principles, Assembly Language and Interface Technology, Digital logic, Operating System
-*Guangdong Experimental High School Sept. 2018 – May 2021
-HSC, Class XII Guangzhou, China
+# Yutian Zhang
+
+## EDUCATION
+------
+**China University of Petroleum-Beijing (CUP)** | *Expected June 2025*  
+**Bachelor of Computer Science** (cGPA: 3.87 / 5.00, Average Score: 88.73, Grades for 5 semesters)  
+Beijing, China  
+Rank: 1/93 in 1st year, 2/132 in 2nd year, Top 1%  
+**Relevant Coursework:** Data Structures (C++), Design and Analysis of Algorithms, Computer Organization Principles, Assembly Language and Interface Technology, Digital logic, Operating System
+
+**Guangdong Experimental High School** | *Sept. 2018 – May 2021*  
+HSC, Class XII  
+Guangzhou, China
+
+## TECHNICAL SKILLS & INTEREST
+------
+- **Technologies:** C, C++, Python, Java, OpenCV, RL, Yolo, PyTorch, Linux, QT, MySQL, HDFS, Minio, Dameng Database, Unity, Issca Gym, Pybullet, Vue  
+- **Languages:** Mandarin, Cantonese, English (TOEFL, CET-6, CET-4)  
+- **Documentation and Visualization Tools:** Skilled in LaTex, Origin, Visio, Illustrator, Microsoft Office, and PS  
+- **Research Interest:** Robot Control and Path Planning, Computer Vision, Machine Learning, Data Analysis
+
+## PROJECTS & RESEARCH EXPERIENCE
+------
+**Robot Vision and Control Application | Beijing Key Lab of Petroleum Data Mining** | *Aug. 2022 – Present*  
+- Propose a Lyapunov-optimized approach based on ST-data for task allocation and safe navigation through RL.
+- Integrated Yolov5 and OpenCV to enhance target detection and localization, optimizing perceptual ability.
+- Leveraged existing SDKs of Unitree and DEEP Robotics quadruped robots to design motion control algorithms.
+- Conducted virtual experiments for path planning on the iLab-X national virtual simulation platform.
+- Received four awards in robotics contests and authored a research paper.
+
+**HKUST(GZ) RedBird Challenge Camp** | *Jun. 2024 - Jul. 2024*  
+- Took courses on empathy-based design thinking, participated in a 5-day, 3-location field trip to investigate deeply into the pain points that exist in 16 occupations of different levels of villages.
+- Aimed at sanitation workers in urban villages of first-tier cities, completed a startup project integrating task assignment, path planning, and psychological LLM on ”Mo
 
 TECHNICAL SKILLS & INTEREST
 ======
