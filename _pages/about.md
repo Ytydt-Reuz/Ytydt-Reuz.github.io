@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Profile"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,14 +11,17 @@ I am currently a senior student pursuing my Bachelor's degree in Computer Scienc
 
 Research
 ======
-I'm interested in unmanned Intelligent Systems, motion and path planning, mobile manipulators, robot vision, and quadruped robot. Most of my research experience is about enabling mobile robots move intelligently and finish challenging tasks. 
+I'm mainly interested in embodied AI, especially unmanned Intelligent Systems, motion and path planning, mobile manipulators, robot vision, and quadruped robot. Most of my research experience is about enabling mobile robots move intelligently and finish challenging tasks. 
 
-Work Experience
+Awards & Honors
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
+· National Scholarship: 2021-2022, 2023-2024(pursing)
+· Tarim Oilfield Scholarship: 2022-2023
+· The China Robotics and Artificial Intelligence Competition (CARIC) - Quadruped robot Rapid Logistics : National First Prize, 2024
+· The RAICOM Robot Developer Competition (CAIR) - Materials Transportation : National second prize (Rank 5th), 2022
+· The Mathematical Contest in Modeling: Honorable Mention, 2024
+· The China Collegiate Computing Contest - Group Programming Ladder Tournament : National second prize, 2023
+· The National College Student Algorithm Design and Programming Challenge (Autumn Competition) : Silver Award in 2022, 2023
+· The China Robot Competition and the RoboCup China Open: Bronze award, 2023
+· The Fifth National Colleges and Universities Computer Proficiency Challenge: National third prize, 2023
+More than 10 awards at the divisional level.
