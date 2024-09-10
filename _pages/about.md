@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my Bachelor's degree in Computer Science at China University of Petroleum, Beijing, China, advised by [Yuanfeng Lian](https://www.cup.edu.cn/ai/szdw/js2/33ea9e1973144b879cfce55616645f72.htm). Currently applying for graduate school admission.
+I am currently pursuing my Bachelor's degree in Computer Science at [College of Artificial Intelligence](https://www.cup.edu.cn/cupai/) China University of Petroleum, Beijing, China, advised by [Yuanfeng Lian](https://www.cup.edu.cn/ai/szdw/js2/33ea9e1973144b879cfce55616645f72.htm). Currently applying for graduate school admission.
 
 Research
 ======
