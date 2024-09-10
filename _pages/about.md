@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yutian Zhang - Personal Homepage"
+title: "Yutian Zhang"
 author_profile: true
 redirect_from: 
   - /about/
