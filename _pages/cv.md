@@ -1,11 +1,9 @@
-
-
 <div style="width: 100%; height: 600px;">
 <canvas id="pdf-canvas" style="border: 1px solid;"></canvas>
 </div>
 
 <script>
-var url = 'https://github.com/Ytydt-Reuz/Ytydt-Reuz.github.io/files/ENG_CV.pdf](https://github.com/Ytydt-Reuz/Ytydt-Reuz.github.io/blob/master/files/ENG_CV.pdf';
+var url = 'https://github.com/Ytydt-Reuz/Ytydt-Reuz.github.io/blob/master/files/ENG_CV.pdf';
 
 // 使用pdf.js渲染和显示PDF
 pdfjsLib.getDocument(url).promise.then(function(pdfDoc) {
@@ -23,3 +21,4 @@ pdfjsLib.getDocument(url).promise.then(function(pdfDoc) {
  });
 });
 </script>
+
